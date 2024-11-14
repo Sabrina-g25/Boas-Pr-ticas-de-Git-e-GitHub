@@ -1,0 +1,2 @@
+#PULLREQUEST
+O Pullrequest é basicamente um pedido de análise dentro do GitHub para que seja atualizada as irformações e sendo assim que não haja conflitos dentro do projeto. Após a análise do desenvolvedor administrador ele aceita se deve atualizar as informações e mudanças dentro do projeto.
